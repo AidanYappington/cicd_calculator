@@ -1,1 +1,1 @@
-# cicd_calculator
+# calculator
